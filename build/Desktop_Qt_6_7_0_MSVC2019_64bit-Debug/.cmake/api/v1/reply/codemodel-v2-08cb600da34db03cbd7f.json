@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-789a24c43b2161a915a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "seam-carving-cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "seam-carving-cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seam-carving-cpp-Debug-26fc8c783f26829e0edb.json",
+					"name" : "seam-carving-cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seam-carving-cpp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seam-carving-cpp_autogen-Debug-4c55041948d08cca1573.json",
+					"name" : "seam-carving-cpp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seam-carving-cpp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seam-carving-cpp_autogen_timestamp_deps-Debug-d0b520da07afb21b6550.json",
+					"name" : "seam-carving-cpp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tzh/Projects/Algorithm/seam-carving/seam-carving-cpp/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/tzh/Projects/Algorithm/seam-carving/seam-carving-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

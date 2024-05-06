@@ -1,0 +1,10 @@
+# ninja log v5
+4	279	7346309637566493	seam-carving-cpp_autogen/timestamp	1e2405ed9d571a2a
+4	279	7346309637566493	seam-carving-cpp_autogen/mocs_compilation.cpp	1e2405ed9d571a2a
+4	279	7346309637566493	C:/Users/tzh/Projects/Algorithm/seam-carving/seam-carving-cpp/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/seam-carving-cpp_autogen/timestamp	1e2405ed9d571a2a
+4	279	7346309637566493	C:/Users/tzh/Projects/Algorithm/seam-carving/seam-carving-cpp/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/seam-carving-cpp_autogen/mocs_compilation.cpp	1e2405ed9d571a2a
+286	1297	7346309647968291	CMakeFiles/seam-carving-cpp.dir/seam_carver.cpp.obj	c1d58e303aed4ce9
+282	1677	7346309651902230	CMakeFiles/seam-carving-cpp.dir/main.cpp.obj	f767483b00b58c98
+279	1734	7346309652378532	CMakeFiles/seam-carving-cpp.dir/seam-carving-cpp_autogen/mocs_compilation.cpp.obj	79d202927ea27766
+284	2083	7346309655836017	CMakeFiles/seam-carving-cpp.dir/mainwindow.cpp.obj	6b758d9d9ada1938
+2083	2407	7346309658936555	seam-carving-cpp.exe	916acb0edc25d140
